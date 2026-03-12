@@ -1,6 +1,8 @@
 # DIO_SUZANO_Certificados
+
 Publicação dos Certificados de Bootcamp Developer Python e complementares na Parceria DIO Suzano 
 
+Fev2026
 ## Formação em Andamento e Desenvolvimento de Competências: 
 
 O acadêmico de Engenharia de Computação do IFMS – Campus Três Lagoas, João Orlando Medeiros Silvestre, segue avançando em sua jornada tecnológica no Bootcamp Python Developer Suzano, promovido pela DIO.
