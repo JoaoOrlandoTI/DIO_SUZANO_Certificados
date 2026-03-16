@@ -56,3 +56,24 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ## Dia 15 de março
 
 ✔️ Colaboração no Github 
+✔️ Tipos de Operadores com Python
+✔️ Autenticações
+✔️ Mapa de Oportunidades com IA no seu Dia a Dia
+✔️ A Era da IA: Machine Learning, LLMs, IA Generativa e Agentes 
+
+## Bootcamp(s) em andamento
+
+### ✔️ Suzano - Python Developer
+
+### ✔️ Formação Github Certification
+
+### ✔️ Lupo - Primeiros Passos com Inteligência Artificial 
+
+
+
+
+
+
+
+
+
