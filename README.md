@@ -1,4 +1,3 @@
-!(JOMS_TI)[https://assets.dio.me/-DRdQPqtl4hK43lYci7WwPRwc2uyq0jAjNydtFVeNko/f:webp/h:96/q:80/w:96/L3VzZXJzL3N0dWRlbnQvODQyMjhmNWUtM2M1Mi00ZTNiLTk5YTAtMGEyMDYxYmU5ZmViLnBuZw]
 
 # DIO_SUZANO_Certificados
 Publicação dos Certificados de Bootcamp Developer Python e complementares na Parceria DIO Suzano 
