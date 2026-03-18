@@ -69,8 +69,9 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 
 ### ✔️ Lupo - Primeiros Passos com Inteligência Artificial 
 
+## Certificados DIO até 17.03.2026: 
 
-
+✔️ 1. Introdução ao Python com a Suzano ✔️ 2. Ambiente de Desenvolvimento e Primeiros Passos com Python ✔️ 3. Conhecendo a Linguagem de Programação Python ✔️ 4. Versionamento de Código com Git e GitHub ✔️ 5. Introdução ao Git e ao GitHub ✔️ 6. Trabalhando com Branches no GitHub ✔️ 7. Princípios do Git e GitHub ✔️ 8. Contribuindo em um Projeto Open Source no GitHub ✔️ 9. Desafios de Projetos: Crie um Portfólio Vencedor ✔️ 10. Live de Lançamento: Suzano - Python Developer ✔️ 12. Colaboração no Github ✔️ 13. Tipos de Operadores com Python ✔️ 14. Autenticações ✔️ 15. Mapa de Oportunidades com IA no seu Dia a Dia ✔️ 16. A Era da IA: Machine Learning, LLMs, IA Generativa e Agentes 
 
 
 
