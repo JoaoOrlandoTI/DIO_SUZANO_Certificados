@@ -7,6 +7,7 @@ Publicação dos Certificados de Bootcamp Developer Python e complementares na P
 ![Suzano - Python Developer](https://assets.dio.me/Sp3_FKGsVgEW2x226Elm8tDp84YmJosPgy8Cre6iZGg/f:webp/h:159/q:80/w:339/L3RyYWNrcy9jb3Zlci9iNjA0YTlmMS1hMjk5LTQyOTktODRmNS01NTM2M2ExMzA4Y2EucG5n)
 
 ### ✔️ Formação Github Certification
+
 !(Formação Github Certification)[https://www.bing.com/ck/a?!&&p=627e28f2d1de5ed746a40cb09b1f01a3df77822732e4b4d4678cc7efcb52e1acJmltdHM9MTc3Mzc5MjAwMA&ptn=3&ver=2&hsh=4&fclid=2446f229-ce74-61e0-04b1-e651cf8f6048&u=a1L2ltYWdlcy9zZWFyY2g_cT1ESU8rRm9ybWElYzMlYTclYzMlYTNvK0dpdGh1YitDZXJ0aWZpY2F0aW9uJmlkPThENTkzMTE4RTlGQ0ZBMTJCMUM4Nzk1MzU1Q0E5QkUxMDIxQkNCMDQ&ntb=1]
 
 ### ✔️ Lupo - Primeiros Passos com Inteligência Artificial 
