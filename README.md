@@ -12,6 +12,8 @@ Publicação dos Certificados de Bootcamp Developer Python e complementares na P
 
 Fev2026
 ## Formação em Andamento e Desenvolvimento de Competências: 
+### Formação Python Fundamentals
+![](https://assets.dio.me/QGBMU101QN38cA6c6M9ukxMZvjWMsUrEyHXYR7AAf2s/f:webp/h:120/q:80/L3RyYWNrcy9hNzM2ZWY0Mi0wZDJmLTQwNzktYWRiNC0yNWM1NWM4NWJhMmIucG5n)
 
 O acadêmico de Engenharia de Computação do IFMS – Campus Três Lagoas, João Orlando Medeiros Silvestre, segue avançando em sua jornada tecnológica no Bootcamp Python Developer Suzano, promovido pela DIO.
 
