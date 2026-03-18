@@ -1,6 +1,14 @@
 # DIO_SUZANO_Certificados
-
 Publicação dos Certificados de Bootcamp Developer Python e complementares na Parceria DIO Suzano 
+
+## Bootcamp(s) em andamento
+
+### ✔️ Suzano - Python Developer 
+![Suzano - Python Developer](https://assets.dio.me/Sp3_FKGsVgEW2x226Elm8tDp84YmJosPgy8Cre6iZGg/f:webp/h:159/q:80/w:339/L3RyYWNrcy9jb3Zlci9iNjA0YTlmMS1hMjk5LTQyOTktODRmNS01NTM2M2ExMzA4Y2EucG5n)
+
+### ✔️ Formação Github Certification
+
+### ✔️ Lupo - Primeiros Passos com Inteligência Artificial 
 
 Fev2026
 ## Formação em Andamento e Desenvolvimento de Competências: 
@@ -60,15 +68,6 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ✔️ Autenticações
 ✔️ Mapa de Oportunidades com IA no seu Dia a Dia
 ✔️ A Era da IA: Machine Learning, LLMs, IA Generativa e Agentes 
-
-## Bootcamp(s) em andamento
-
-### ✔️ Suzano - Python Developer 
-![Suzano - Python Developer](https://assets.dio.me/Sp3_FKGsVgEW2x226Elm8tDp84YmJosPgy8Cre6iZGg/f:webp/h:159/q:80/w:339/L3RyYWNrcy9jb3Zlci9iNjA0YTlmMS1hMjk5LTQyOTktODRmNS01NTM2M2ExMzA4Y2EucG5n)
-
-### ✔️ Formação Github Certification
-
-### ✔️ Lupo - Primeiros Passos com Inteligência Artificial 
 
 ## Certificados DIO até 17.03.2026: 
 
