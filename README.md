@@ -81,15 +81,15 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 1. Introdução ao Python com a Suzano
 ![](https://private-user-images.githubusercontent.com/267536401/566195872-10b351ab-f04a-413f-9fde-810a130f083e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MjAyMDksIm5iZiI6MTc3MzkxOTkwOSwicGF0aCI6Ii8yNjc1MzY0MDEvNTY2MTk1ODcyLTEwYjM1MWFiLWYwNGEtNDEzZi05ZmRlLTgxMGExMzBmMDgzZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQxMTMxNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYzczZDI4MmUwMWJlNzhjMmI1YjQ1OGU5MTM4OTkzNWJmZjc5MDhlYTMyOTA3ODE3ZDk2NjNmOWY2YWZhZTg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.85OSeJVpWcD2zICVyvG2FWUDnsuQ6tyb-O7GSGk9knc)
 
+### ✔️ 2. Ambiente de Desenvolvimento e Primeiros Passos com Python 
+
+### ✔️ 3. Conhecendo a Linguagem de Programação Python 
+
+### ✔️ 4. Versionamento de Código com Git e GitHub
+
 ###
 
-##
-
-##
-
-##
-
-##
+###
 
 ##
 
