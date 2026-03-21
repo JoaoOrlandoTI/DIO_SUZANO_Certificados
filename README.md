@@ -87,22 +87,22 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 <img src="https://private-user-images.githubusercontent.com/267536401/567140168-4b365110-a28b-4351-b5c0-9277c88e56da.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwNTIxMDQsIm5iZiI6MTc3NDA1MTgwNCwicGF0aCI6Ii8yNjc1MzY0MDEvNTY3MTQwMTY4LTRiMzY1MTEwLWEyOGItNDM1MS1iNWMwLTkyNzdjODhlNTZkYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyMVQwMDEwMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iN2UzMjJmNjFjZTRhY2QxNGViM2VkYTk4NzIwMDc4ZmYwNjVjMmE3Y2ZmN2E2YTEyNzJjZDVhNDEyZDA4MTM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2cRx7rH3sJF5t4oqtHfhcXcUnls0ae2fXIAiyk9j1fg" width="456">
 
 ### ✔️ 3. Conhecendo a Linguagem de Programação Python 
-<img srd="https://private-user-images.githubusercontent.com/267536401/567145773-a3c6ae13-5400-4923-b062-fa093f570543.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwNTI0NTcsIm5iZiI6MTc3NDA1MjE1NywicGF0aCI6Ii8yNjc1MzY0MDEvNTY3MTQ1NzczLWEzYzZhZTEzLTU0MDAtNDkyMy1iMDYyLWZhMDkzZjU3MDU0My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyMVQwMDE1NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGZkMTc3NWQ5ZmUyMDc2NGJlN2ZmYmQ3ZjM1ZTEwNmVkOTNkNjhlZjRlYTE2YjhhM2UwOWZjOWUxM2RiM2RhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.p6Hirqps_d7CD7d3eboMc__xj1g4-u1AsPQHhU-ZpOw" width="456"> 
+<img src="https://private-user-images.githubusercontent.com/267536401/567145773-a3c6ae13-5400-4923-b062-fa093f570543.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwNTI0NTcsIm5iZiI6MTc3NDA1MjE1NywicGF0aCI6Ii8yNjc1MzY0MDEvNTY3MTQ1NzczLWEzYzZhZTEzLTU0MDAtNDkyMy1iMDYyLWZhMDkzZjU3MDU0My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyMVQwMDE1NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGZkMTc3NWQ5ZmUyMDc2NGJlN2ZmYmQ3ZjM1ZTEwNmVkOTNkNjhlZjRlYTE2YjhhM2UwOWZjOWUxM2RiM2RhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.p6Hirqps_d7CD7d3eboMc__xj1g4-u1AsPQHhU-ZpOw" width="456"> 
 
 ### ✔️ 4. Versionamento de Código com Git e GitHub
-<img srd=" " width="456">
+<img src=" " width="456">
 
 ### ✔️ 5.
-<img srd=" " width="456">
+<img src=" " width="456">
 
 ### ✔️ 6.
-<img srd=" " width="456">
+<img src=" " width="456">
 
 ### ✔️ 7.
-<img srd=" " width="456"> 
+<img src=" " width="456"> 
 
 ### ✔️ 8.
-<img srd=" " width="456">
+<img src=" " width="456">
 
 
 
