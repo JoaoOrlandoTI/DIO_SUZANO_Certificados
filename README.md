@@ -82,19 +82,27 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 <img src="https://private-user-images.githubusercontent.com/267536401/566195872-10b351ab-f04a-413f-9fde-810a130f083e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MjAyMDksIm5iZiI6MTc3MzkxOTkwOSwicGF0aCI6Ii8yNjc1MzY0MDEvNTY2MTk1ODcyLTEwYjM1MWFiLWYwNGEtNDEzZi05ZmRlLTgxMGExMzBmMDgzZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQxMTMxNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYzczZDI4MmUwMWJlNzhjMmI1YjQ1OGU5MTM4OTkzNWJmZjc5MDhlYTMyOTA3ODE3ZDk2NjNmOWY2YWZhZTg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.85OSeJVpWcD2zICVyvG2FWUDnsuQ6tyb-O7GSGk9knc" width="456">
 
 ### ✔️ 2. Ambiente de Desenvolvimento e Primeiros Passos com Python 
-<img srd="https://private-user-images.githubusercontent.com/267536401/567140168-4b365110-a28b-4351-b5c0-9277c88e56da.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwNTE1MDUsIm5iZiI6MTc3NDA1MTIwNSwicGF0aCI6Ii8yNjc1MzY0MDEvNTY3MTQwMTY4LTRiMzY1MTEwLWEyOGItNDM1MS1iNWMwLTkyNzdjODhlNTZkYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyMVQwMDAwMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zN2NiMDRkNjUxZmVkY2I2ZDgxY2E0ODc3NWJhNjMyZmYyZDM5MDRiZjMyYjkzNDBjNDhlZDNmODEyMzViNjhlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sXDNQDW1f6-RukR2Pelt20YuQVILuEbW4_-IVXK0iYo"  width="456">
+<img srd="
+  
+  " width="456"> 
+
 ### ✔️ 3. Conhecendo a Linguagem de Programação Python 
-<img srd+=" " width="456">
+<img srd=" " width="456"> 
+
 ### ✔️ 4. Versionamento de Código com Git e GitHub
-<img srd+=" " width="456">
+<img srd=" " width="456">
+
 ### ✔️ 5.
-<img srd+=" " width="456">
+<img srd=" " width="456">
+
 ### ✔️ 6.
-<img srd+=" " width="456">
+<img srd=" " width="456">
+
 ### ✔️ 7.
-<img srd+=" " width="456">
+<img srd=" " width="456"> 
+
 ### ✔️ 8.
-<img srd+=" " width="456">
+<img srd=" " width="456">
 
 
 
