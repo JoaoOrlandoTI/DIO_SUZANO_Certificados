@@ -102,8 +102,33 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 <img src="https://private-user-images.githubusercontent.com/267536401/567306712-fb8549a2-0b2a-40d1-a72a-e11f1ab07269.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQxMTYzMDMsIm5iZiI6MTc3NDExNjAwMywicGF0aCI6Ii8yNjc1MzY0MDEvNTY3MzA2NzEyLWZiODU0OWEyLTBiMmEtNDBkMS1hNzJhLWUxMWYxYWIwNzI2OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyMVQxODAwMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOWY0MDBiNWYwNDNhN2NmZjA4NjEzYjVhNWVhMDMwZWVjMmE2NjQxMWI4YzMzMGRiOTFjNTJiOGE2MjFlNDlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4dSxeh0s2_e-oa4kWckWjYmuTH-F83vDfspNwpX1JuE" width="456"> 
 
 ### ✔️ 8. Tipos de Operadores com Python
-<img src=" " width="456">
+<img src="https://private-user-images.githubusercontent.com/267536401/567306880-e09f35fd-7778-40bf-8eea-a2273afec082.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQxMTY0MTksIm5iZiI6MTc3NDExNjExOSwicGF0aCI6Ii8yNjc1MzY0MDEvNTY3MzA2ODgwLWUwOWYzNWZkLTc3NzgtNDBiZi04ZWVhLWEyMjczYWZlYzA4Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyMVQxODAxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZGUwYTFjZWI3Yzg5YTIxNTRmODAwY2JmZmIxNWFkNTFiMWJjZTViZmI1ZDU2MTIxYmY3MWRlYmUxNzM2YWZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xMdhJYM9ClyGeVe3dqM0EiJ5ro0Sah9E_RcAL4-Q3wo" width="456">
 
 ### ✔️ 9. Estruturas Condicionais e de Repeticao em Python
 <img src=" " width="456">
+
+### ✔️ 10. 
+<img src=" " width="456">
+
+### ✔️ 11. 
+<img src=" " width="456">
+
+### ✔️ 12. 
+<img src=" " width="456">
+
+### ✔️ 13. 
+<img src=" " width="456">
+
+### ✔️ 14. 
+<img src=" " width="456">
+
+### ✔️ 15. 
+<img src=" " width="456">
+
+
+
+
+
+
+
 
