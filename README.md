@@ -92,17 +92,18 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 4. Versionamento de Código com Git e GitHub
 <img src="https://private-user-images.githubusercontent.com/267536401/567147732-b5cb386a-c4fc-48a8-90ec-8e42aa25d516.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwNTI3NDksIm5iZiI6MTc3NDA1MjQ0OSwicGF0aCI6Ii8yNjc1MzY0MDEvNTY3MTQ3NzMyLWI1Y2IzODZhLWM0ZmMtNDhhOC05MGVjLThlNDJhYTI1ZDUxNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyMVQwMDIwNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMTJmM2YyODhjZGIxZTY3N2M4NGExYzFlYjFiMzRjYjUwOWVkYzA1YjFhMjRhZjM3ZGI1M2Y4ZDM0NDAzNTQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SBcQ9P2XxxVURCzaN6GzAVzgWfiG9InqCQvy8i5y6Wc" width="456">
 
-### ✔️ 5.
+### ✔️ 5. Desafio de Projetos Crie Um Portofolio Vencedor
 <img src=" " width="456">
 
-### ✔️ 6.
+### ✔️ 6. Live de Lancamento Bootcamp Suzano
 <img src=" " width="456">
 
-### ✔️ 7.
+### ✔️ 7. Contribuindo com um Repositorio
 <img src=" " width="456"> 
 
-### ✔️ 8.
+### ✔️ 8. Tipos de Operadores com Python
 <img src=" " width="456">
 
-
+### ✔️ 9. Estruturas Condicionais e de Repeticao em Python
+<img src=" " width="456">
 
