@@ -107,11 +107,6 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 9. Estruturas Condicionais e de Repeticao em Python
 <img src="https://private-user-images.githubusercontent.com/267536401/567307119-96e815bf-ddee-4abd-9628-49f30630ca99.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQxMTY2MTMsIm5iZiI6MTc3NDExNjMxMywicGF0aCI6Ii8yNjc1MzY0MDEvNTY3MzA3MTE5LTk2ZTgxNWJmLWRkZWUtNGFiZC05NjI4LTQ5ZjMwNjMwY2E5OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyMVQxODA1MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04M2JjOTk3ZDk1MzhjN2RmNDFlMjQwMWJiYzMwOTJmZDEwZTMxZmRkOTdkMDI2YzE3Njc5NzUzOTA2MDE0MWVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3C6tSveazFaT3N0vqjLF7K7RQEsbe7mt5KgMYioTd4o" width="456">
 
-## ✔️ Certificados Lupo - Primeiros Passos com Inteligência Artificial
-### ✔️  
-<img src=" " width="456">
-
-
 ### ✔️ 10. 
 <img src=" " width="456">
 
