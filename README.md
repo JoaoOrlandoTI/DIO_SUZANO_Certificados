@@ -80,11 +80,11 @@ Certificados DIO de 18.03 até 29.03.2026:
 ✔️ 19. Manipulando Strings com Python
 ✔️ 20. Aplicações Práticas da Inteligência Artificial
 ✔️ 21. Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas 
-...
-✔️ 22. 
-✔️ 23. 
-✔️ 24. 
-✔️ 25. 
+✔️ 22. Trabalhando com Listas em Python
+✔️ 23. Sobre Contas e Ferramentas do Github
+✔️ 24. Aplicações e Impacto da IA no Mundo Atual
+✔️ 25. Introdução à Engenharia de Prompts
+
 ...
 ✔️ 26.  
 ✔️ 27. 
