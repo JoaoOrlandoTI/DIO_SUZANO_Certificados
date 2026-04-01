@@ -115,7 +115,7 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 10. Python Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas
 <img src=" " width="456">
 
-### ✔️ 11. Python
+### ✔️ 11. Python Trabalhando com Listas em Python
 <img src=" " width="456">
 
 ### ✔️ 12. Python
