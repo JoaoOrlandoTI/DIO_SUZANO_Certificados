@@ -118,7 +118,7 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 11. Python Trabalhando com Listas em Python
 <img src=" " width="456">
 
-### ✔️ 12. Python
+### ✔️ 12. Python Sobre Contas e Ferramentas do Github
 <img src=" " width="456">
 
 ### ✔️ 13. Python
