@@ -139,7 +139,7 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 18. Python 18
 <img src=" " width="456">
 
-### ✔️ 19. Python
+### ✔️ 19. Python 19
 <img src=" " width="456">
 
 ### ✔️ 20. Python
