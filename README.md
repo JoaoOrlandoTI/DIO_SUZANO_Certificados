@@ -127,7 +127,7 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 14. Python Introdução à Engenharia de Prompts
 <img src=" " width="456">
 
-### ✔️ 15. Python
+### ✔️ 15. Python 15
 <img src=" " width="456">
 
 ### ✔️ 16. Python
