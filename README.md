@@ -121,7 +121,7 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 12. Python Sobre Contas e Ferramentas do Github 12
 <img src=" " width="456">
 
-### ✔️ 13. Python Aplicações e Impacto da IA no Mundo Atual
+### ✔️ 13. Python Aplicações e Impacto da IA no Mundo Atual 13
 <img src=" " width="456">
 
 ### ✔️ 14. Python Introdução à Engenharia de Prompts
