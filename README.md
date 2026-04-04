@@ -112,7 +112,7 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 9. Estruturas Condicionais e de Repeticao em Python
 <img src="https://private-user-images.githubusercontent.com/267536401/567307119-96e815bf-ddee-4abd-9628-49f30630ca99.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ5MDQ3OTcsIm5iZiI6MTc3NDkwNDQ5NywicGF0aCI6Ii8yNjc1MzY0MDEvNTY3MzA3MTE5LTk2ZTgxNWJmLWRkZWUtNGFiZC05NjI4LTQ5ZjMwNjMwY2E5OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMzMFQyMTAxMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YWYwZjE3OTM5YWFlNzZhZDViZDhmODA0OWZiYjU1NTFhODgwMWFlNjk0ZWJiYjE2ZTk0Nzc4YzRmZjRkZmY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9AtYgyf0j7QHjL9GJ3LAm5d6KRngZLTF2qnzEdKcme4" width="456">
 
-### ✔️ 10. Python Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas
+### ✔️ 10. Python Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas 10
 <img src=" " width="456">
 
 ### ✔️ 11. Python Trabalhando com Listas em Python
