@@ -115,10 +115,10 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 10. Python Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas 10
 <img src=" " width="456">
 
-### ✔️ 11. Python Trabalhando com Listas em Python 11
+### ✔️ 11. Python Trabalhando com Listas em Python 
 <img src=" " width="456">
 
-### ✔️ 12. Python Sobre Contas e Ferramentas do Github 12
+### ✔️ 12. Python Sobre Contas e Ferramentas do Github 
 <img src=" " width="456">
 
 ### ✔️ 13. Python Aplicações e Impacto da IA no Mundo Atual 13
