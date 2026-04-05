@@ -133,13 +133,13 @@ Essa jornada representa mais um passo na formação de um profissional preparado
 ### ✔️ 16. Python 
 <img src=" " width="456">
 
-### ✔️ 17. Python 17
+### ✔️ 17. Python 
 <img src=" " width="456">
 
-### ✔️ 18. Python 18
+### ✔️ 18. Python 
 <img src=" " width="456">
 
-### ✔️ 19. Python 19
+### ✔️ 19. Python 
 <img src=" " width="456">
 
 ### ✔️ 20. Python 20
