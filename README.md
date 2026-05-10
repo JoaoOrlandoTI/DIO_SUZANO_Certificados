@@ -4,8 +4,6 @@ Publicação dos Certificados de Bootcamp Developer Python e complementares na P
 2
 3
 4
-5
-
 
 
 
