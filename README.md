@@ -2,7 +2,6 @@
 Publicação dos Certificados de Bootcamp Developer Python e complementares na Parceria DIO Suzano 
 1
 2
-3
 
 
 ## Bootcamp(s) em andamento
