@@ -5,7 +5,6 @@ Publicação dos Certificados de Bootcamp Developer Python e complementares na P
 3
 4
 5
-6
 ## Bootcamp(s) em andamento
 
 ### ✔️ Suzano - Python Developer 
