@@ -8,8 +8,6 @@ f
 g
 g
 hh
-h
-j
 ## Bootcamp(s) em andamento
 
 ### ✔️ Suzano - Python Developer 
