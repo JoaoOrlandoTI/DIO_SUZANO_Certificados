@@ -5,8 +5,6 @@ s
 d
 f
 f
-g
-g
 ## Bootcamp(s) em andamento
 
 ### ✔️ Suzano - Python Developer 
