@@ -11,7 +11,6 @@ Publicação dos Certificados de Bootcamp Developer Python e complementares na P
 ✔️ Trabalhando com Branches no GitHub
 ✔️ Princípios do Git e GitHub
 ✔️ Contribuindo em um Projeto Open Source no GitHub
-✔️ Desafios de Projetos: Crie um Portfólio Vencedor
 
 ## Bootcamp(s) em andamento
 
