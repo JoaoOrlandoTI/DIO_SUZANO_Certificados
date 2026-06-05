@@ -11,8 +11,6 @@ Publicação dos Certificados de Bootcamp Developer Python e complementares na P
 
 ✔️ Princípios do Git e GitHub
 
-✔️ Contribuindo em um Projeto Open Source no GitHub
-
 ## Bootcamp(s) em andamento
 
 ### ✔️ Suzano - Python Developer 
