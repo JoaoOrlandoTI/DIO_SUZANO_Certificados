@@ -5,8 +5,6 @@ Publicação dos Certificados de Bootcamp Developer Python e complementares na P
 
 ✔️ Introdução ao Python com a Suzano
 
-✔️ Ambiente de Desenvolvimento e Primeiros Passos com Python
-
 ✔️ Introdução ao Git e ao GitHub
 
 ✔️ Trabalhando com Branches no GitHub
