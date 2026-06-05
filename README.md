@@ -1,6 +1,19 @@
 # DIO_SUZANO_Certificados
 Publicação dos Certificados de Bootcamp Developer Python e complementares na Parceria DIO Suzano 
 
+### Entre os conteúdos concluídos estão:
+
+✔️ Introdução ao Python com a Suzano
+✔️ Ambiente de Desenvolvimento e Primeiros Passos com Python
+✔️ Conhecendo a Linguagem de Programação Python
+✔️ Versionamento de Código com Git e GitHub
+✔️ Introdução ao Git e ao GitHub
+✔️ Trabalhando com Branches no GitHub
+✔️ Princípios do Git e GitHub
+✔️ Contribuindo em um Projeto Open Source no GitHub
+✔️ Desafios de Projetos: Crie um Portfólio Vencedor
+✔️ Live de Lançamento: Suzano - Python Developer
+
 ## Bootcamp(s) em andamento
 
 ### ✔️ Suzano - Python Developer 
