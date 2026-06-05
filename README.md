@@ -7,8 +7,6 @@ Publicação dos Certificados de Bootcamp Developer Python e complementares na P
 
 ✔️ Introdução ao Git e ao GitHub
 
-✔️ Trabalhando com Branches no GitHub
-
 ✔️ Princípios do Git e GitHub
 
 ## Bootcamp(s) em andamento
