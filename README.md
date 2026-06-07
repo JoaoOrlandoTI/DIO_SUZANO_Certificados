@@ -1,5 +1,4 @@
 ### ✔️ Suzano - Python Developer 
-![Suzano - Python Developer](https://assets.dio.me/Sp3_FKGsVgEW2x226Elm8tDp84YmJosPgy8Cre6iZGg/f:webp/h:159/q:80/w:339/L3RyYWNrcy9jb3Zlci9iNjA0YTlmMS1hMjk5LTQyOTktODRmNS01NTM2M2ExMzA4Y2EucG5n)
 
 ### ✔️ Formação Github Certification
 ![](https://assets.dio.me/x2CbxXC80Y17uOjwlgisGu0-5Ltkqn3v7tZ9wcxguWs/f:webp/h:159/q:80/w:339/L3RyYWNrcy9jb3Zlci9kOTkzMjQyOS03MGVlLTRkM2MtYjZiZi1mNzYyYzU5MGM4ZGYucG5n)
