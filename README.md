@@ -5,7 +5,7 @@
 ### ✔️ Lupo - Primeiros Passos com Inteligência Artificial 
 
 ## Formação em Andamento e Desenvolvimento de Competências (Fev2026)
-### Formação Python Fundamentals
+
 # ##########################################m
 
 # DIO_SUZANO_Certificados
