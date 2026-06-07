@@ -3,7 +3,7 @@
 ### ✔️ Formação Github Certification
 
 ### ✔️ Lupo - Primeiros Passos com Inteligência Artificial 
-![](https://assets.dio.me/9j7xzeh9lJ03lmaN7hx3zP9CFc9XPf7gqptBSnyJhY4/f:webp/h:159/q:80/w:339/L3RyYWNrcy9jb3Zlci9iNjM4YjZkNC1lY2EzLTRiNWMtYjExZS01ODRmMmI0NTgwYWQucG5n)
+
 ## Formação em Andamento e Desenvolvimento de Competências (Fev2026)
 ### Formação Python Fundamentals
 # ##########################################m
