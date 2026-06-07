@@ -1,7 +1,5 @@
 ### ✔️ Suzano - Python Developer 
 
-### ✔️ Formação Github Certification
-
 # ##########################################m
 
 # DIO_SUZANO_Certificados
