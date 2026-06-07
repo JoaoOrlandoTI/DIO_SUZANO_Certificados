@@ -2,8 +2,6 @@
 
 ### ✔️ Formação Github Certification
 
-### ✔️ Lupo - Primeiros Passos com Inteligência Artificial 
-
 # ##########################################m
 
 # DIO_SUZANO_Certificados
