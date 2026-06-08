@@ -1,8 +1,4 @@
 
-
-### ✔️ 11. Python Trabalhando com Listas em Python 
-<img src=" " width="456">
-
 ### ✔️ 12. Python Sobre Contas e Ferramentas do Github 
 <img src=" " width="456">
 
