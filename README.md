@@ -1,3 +1,18 @@
+### ✔️ 10. Python Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas 10
+<img src=" " width="456">
+
+### ✔️ 11. Python Trabalhando com Listas em Python 
+<img src=" " width="456">
+
+### ✔️ 12. Python Sobre Contas e Ferramentas do Github 
+<img src=" " width="456">
+
+### ✔️ 13. Python Aplicações e Impacto da IA no Mundo Atual 
+<img src=" " width="456">
+
+### ✔️ 14. Python Introdução à Engenharia de Prompts 
+<img src=" " width="456">
+
 # DIO_SUZANO_Certificados
 Publicação dos Certificados de Bootcamp Developer Python e complementares na Parceria DIO Suzano 
 
