@@ -1,5 +1,4 @@
-### ✔️ 10. Python Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas 10
-<img src=" " width="456">
+
 
 ### ✔️ 11. Python Trabalhando com Listas em Python 
 <img src=" " width="456">
