@@ -1,4 +1,3 @@
-### ✔️ 14. Python Introdução à Engenharia de Prompts 
 <img src=" " width="456">
 
 # DIO_SUZANO_Certificados
