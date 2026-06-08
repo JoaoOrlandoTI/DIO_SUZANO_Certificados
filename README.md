@@ -1,6 +1,3 @@
-
-<img src=" " width="456">
-
 ### ✔️ 14. Python Introdução à Engenharia de Prompts 
 <img src=" " width="456">
 
