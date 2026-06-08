@@ -1,7 +1,3 @@
-
-### ✔️ 12. Python Sobre Contas e Ferramentas do Github 
-<img src=" " width="456">
-
 ### ✔️ 13. Python Aplicações e Impacto da IA no Mundo Atual 
 <img src=" " width="456">
 
