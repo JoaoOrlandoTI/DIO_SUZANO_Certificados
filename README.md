@@ -1,4 +1,4 @@
-### ✔️ 13. Python Aplicações e Impacto da IA no Mundo Atual 
+
 <img src=" " width="456">
 
 ### ✔️ 14. Python Introdução à Engenharia de Prompts 
