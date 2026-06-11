@@ -1,7 +1,4 @@
 
-### ✔️ 19. Python 
-<img src=" " width="456">
-
 ### ✔️ 20. Python
 <img src=" " width="456">
 
