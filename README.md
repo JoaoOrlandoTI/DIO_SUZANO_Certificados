@@ -1,8 +1,6 @@
 ✔️ Introdução ao Python com a Suzano
 ✔️ Ambiente de Desenvolvimento e Primeiros Passos com Python
 ✔️ Conhecendo a Linguagem de Programação Python
-✔️ Versionamento de Código com Git e GitHub
-
 
 
 
