@@ -1,7 +1,5 @@
 ✔️ Introdução ao Python com a Suzano
 ✔️ Ambiente de Desenvolvimento e Primeiros Passos com Python
-✔️ Conhecendo a Linguagem de Programação Python
-
 
 
 # DIO_SUZANO_Certificados
