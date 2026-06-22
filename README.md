@@ -1,8 +1,6 @@
 ### ✔️ 12. Python Sobre Contas e Ferramentas do Github 
 <img src=" " width="456">
 
-### ✔️ 13. Python Aplicações e Impacto da IA no Mundo Atual 
-<img src=" " width="456">
 # DIO_SUZANO_Certificados
 Publicação dos Certificados de Bootcamp Developer Python e complementares na Parceria DIO Suzano 
 
