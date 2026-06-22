@@ -3,10 +3,6 @@
 
 ### ✔️ 13. Python Aplicações e Impacto da IA no Mundo Atual 
 <img src=" " width="456">
-
-### ✔️ 14. Python Introdução à Engenharia de Prompts 
-<img src=" " width="456">
-
 # DIO_SUZANO_Certificados
 Publicação dos Certificados de Bootcamp Developer Python e complementares na Parceria DIO Suzano 
 
